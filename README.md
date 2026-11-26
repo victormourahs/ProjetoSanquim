@@ -311,7 +311,7 @@ Os cenários opcionais com MySQL exigem configuração de ambiente específica. 
 | **Thiago Catozzi** | [@Cattozzi](https://github.com/Cattozzi) |
 | **Pedrophobia** | [@Pedrophobia](https://github.com/Pedrophobia) |
 
-> **EQUIPE:** integrantes informados para o projeto. As responsabilidades individuais não foram especificadas.
+> **EQUIPE:** integrantes informados para o projeto.
 
 ---
 
