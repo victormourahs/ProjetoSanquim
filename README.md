@@ -309,7 +309,8 @@ Os cenários opcionais com MySQL exigem configuração de ambiente específica. 
 | **Gilberto Corrêa** | [@gilbertocorrea-cmd](https://github.com/gilbertocorrea-cmd) |
 | **Victor Moura** | [@victormourahs](https://github.com/victormourahs) |
 | **Thiago Catozzi** | [@Cattozzi](https://github.com/Cattozzi) |
-| **Pedrophobia** | [@Pedrophobia](https://github.com/Pedrophobia) |
+| **Pedro Machado** | [@Pedrophobia](https://github.com/Pedrophobia) |
+| **Pedro Stefanin** | [@P3dr06](https://github.com/P3dr06) |
 
 > **EQUIPE:** integrantes informados para o projeto.
 
