@@ -256,7 +256,7 @@ Em desenvolvimento, `application.properties` usa `spring.jpa.hibernate.ddl-auto=
 
 ## `BOOT SEQUENCE // EXECUÇÃO LOCAL`
 
-No Linux:
+No Terminal:
 
 ```bash
 git clone https://github.com/victormourahs/ProjetoSanquim.git
